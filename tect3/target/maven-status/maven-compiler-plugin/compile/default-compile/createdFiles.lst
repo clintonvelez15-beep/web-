@@ -1,6 +1,0 @@
-org\example\ssm\service\impl\UserServiceImpl.class
-org\example\Main.class
-org\example\ssm\controller\UserController.class
-org\example\ssm\service\UserService.class
-org\example\ssm\mapper\UserMapper.class
-org\example\ssm\entity\User.class
